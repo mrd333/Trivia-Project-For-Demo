@@ -1,1 +1,0 @@
-# Trivia-Project-For-Demo
