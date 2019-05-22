@@ -1,0 +1,56 @@
+h1{
+    font-size: 18px;
+    color: red;
+    }
+.ipt{
+    width: 300px;
+    text-align: center;
+    font-size: 22px;
+    color: red;
+    }
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/previews/000/098/341/original/free-question-mark-background-vector.jpg");
+    }
+.container{
+    text-align:center;
+    padding-top: 30px;
+}
+button{
+    padding:7px;
+    background:black;
+    border: solid red 2px;
+    color: yellow;
+    border-radius: 10px;
+    margin-top: 15px;
+    height: 60px;
+    width: 80px;
+    font-size: 18px;
+}
+input{
+    height: 30px;
+    background-color:yellow;
+    width: 200px;
+    text-align:center;
+    font-size: 22px;
+    color: red;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red;
+  opacity: 1; /* Firefox */
+  font-size: 22px;
+}
+.ans{
+    background-color:yellow;
+    border: solid red 2px;
+    border-radius:10px;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    }
+.correctTotal{
+    font-size: 22px;
+    color: red;
+    }
+.btnReverse{
+    width:90px;
+    }
